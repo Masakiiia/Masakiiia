@@ -1,66 +1,39 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Salut%20👋,%20je%20suis%20Dev&fontSize=90" width="100%"/>
-</div>
-
-<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=32344a&height=250&section=header&text=Masaki%20👋&fontSize=80&fontColor=7aa2f7" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Développeur+Fullstack;Passionné+d'Open+Source;Fan+de+Café+☕️;Toujours+en+train+d'apprendre..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=bb9af7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;hunter+x+hunter+Enjoyer+⛩️;Open+Source+Enthusiast;Building+the+future..." alt="Typing SVG" />
   </a>
 
-  <br/>
-
-  <a href="https://linkedin.com/in/ton-profil">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/ton-profil">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:ton-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
+  <p align="center">
+    <a href="https://linkedin.com/in/ton-profil"><img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:ton-email@gmail.com"><img src="https://img.shields.io/badge/Email-f7768e?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
 </div>
 
 ---
 
-### 👨‍💻 À propos de moi
-
-- 🔭 Je travaille actuellement sur **un super projet secret**.
-- 🌱 J'apprends actuellement **REACT **.
-- 👯 Je cherche à collaborer sur **des projets Open Source**.
-- ⚡ Fait amusant : **Je peux coder 10h d'affilée avec la bonne playlist.**
-
----
-
-### 🛠️ Ma Stack Technique
+### 🛠️ Mon Arsenal (Tech Stack)
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,docker,vscode,linux&perline=10" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,docker,vscode,linux&theme=dark" />
 </div>
 
 ---
 
-### 📊 Mes Stats GitHub
+### 📊 Mes Statistiques
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Masakiiia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masakiiia&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Masakiiia&theme=tokyonight" alt="github-streak-stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Masakiiia&show_icons=true&theme=tokyonight&border_radius=10" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masakiiia&layout=compact&theme=tokyonight&border_radius=10" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Masakiiia&theme=tokyonight&border_radius=10" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dummy/giphy.gif" width="50px" />
-  <p>Merci de ta visite ! 🚀</p>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="40" />
+  <p><i>"Le travail acharné bat le talent quand le talent ne travaille pas dur."</i></p>
+  <img src="https://komarev.com/ghpvc/?username=Masakiiia&color=7aa2f7&style=flat-square&label=VUES+PROFIL" alt="views" />
 </div>
